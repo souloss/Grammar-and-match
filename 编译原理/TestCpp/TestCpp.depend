@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1539787558 source:c:\users\administrator\desktop\test\testcpp\src\gramexcept.cpp
+	"GramExcept.h"
+
+1539787512 c:\users\administrator\desktop\test\testcpp\include\gramexcept.h
+	<exception>
+	<string>
+
+1540265522 source:c:\users\administrator\desktop\test\testcpp\src\gramio.cpp
+	"GramIO.h"
+
+1540263426 c:\users\administrator\desktop\test\testcpp\include\gramio.h
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<typeinfo>
+	"GramExcept.h"
+	"Grammer.h"
+	"GramMatch.h"
+	<stdlib.h>
+	<conio.h>
+	<stack>
+
+1540123171 c:\users\administrator\desktop\test\testcpp\include\grammer.h
+	"GramExcept.h"
+	<iostream>
+	<set>
+	<vector>
+
+1540264743 source:c:\users\administrator\desktop\test\testcpp\src\grammatch.cpp
+	"GramMatch.h"
+
+1540265952 c:\users\administrator\desktop\test\testcpp\include\grammatch.h
+	"Grammer.h"
+	"GramExcept.h"
+	"GramIO.h"
+	<vector>
+	<stack>
+	<map>
+	<cstring>
+	<stdlib.h>
+	<algorithm>
+
+1540264592 source:c:\users\administrator\desktop\test\testcpp\src\grammer.cpp
+	"Grammer.h"
+
+1540218797 source:c:\users\administrator\desktop\test\testcpp\src\gramui.cpp
+	"GramUI.h"
+
+1540134360 c:\users\administrator\desktop\test\testcpp\include\gramui.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<iostream>
+	"Grammer.h"
+	"GramIO.h"
+	"GramMatch.h"
+	<string>
+	<vector>
+
+1540135215 source:c:\users\administrator\desktop\test\testcpp\src\main.cpp
+	"GramUI.h"
+

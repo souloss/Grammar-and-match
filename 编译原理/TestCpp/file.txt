@@ -1,0 +1,4 @@
+S bAb
+A (B
+A a
+B Aa)
